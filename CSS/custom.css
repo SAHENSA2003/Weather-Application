@@ -1,0 +1,17 @@
+:root{
+    color-scheme: light;
+    --sky-top:#0b3d63;
+    --sky-upper:#1c6fa5;
+    --sky-mid:#4fa3d1;
+    --sky-low:#9cd2ec;
+    --sky-horizon:#eaf6fb;
+    --sun:#fff3d6;
+    --sun-core:#ffe8ad;
+    --ink:#0c2a3d;
+    --ink-soft:#3a5b6e;
+    --card-glass: rgba(255,255,255,0.30);
+    --card-border: rgba(255,255,255,0.55);
+    --coral:#ff8f65;
+    --coral-deep:#e96f45;
+    --white:#ffffff;
+  }
