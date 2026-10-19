@@ -1,6 +1,21 @@
-  @media (max-width: 480px){
-    body{ padding: 8vh 6vw; align-items:flex-start; }
-    .w-temp{ font-size:54px; }
-    form{ flex-direction:column; }
-    button.go{ padding:14px; }
-  }
+  @media (max-width: 480px) {
+    body {
+      padding: 8vh 6vw;
+      align-items: flex-start;
+    }
+
+    .w-temp {
+      font-size: 54px;
+    }
+
+    form {
+      flex-direction: column;
+    }
+
+    button.go {
+      padding: 14px;
+    }
+    .result-inner .region{
+      font-size: 1.5em;
+    }
+  };
